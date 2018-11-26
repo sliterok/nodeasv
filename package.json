@@ -1,0 +1,17 @@
+{
+  "name": "node-arduino-sound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "window-function": "^2.0.2",
+    "naudiodon": "^0.4.7",
+    "audio-analyser": "^1.0.2",
+    "serialport": "^7.0.2"
+  }
+}
